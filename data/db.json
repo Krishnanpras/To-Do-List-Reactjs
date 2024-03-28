@@ -1,0 +1,26 @@
+{
+    "items": [
+      { 
+        "id": "1", 
+      "checked": false,
+       "value": "coding"
+     },
+    {
+        "id": "2", 
+        "checked": true,
+         "value": "play"
+
+    },
+    
+    {
+        "id": "3", 
+        "checked": false,
+         "value": "kabadi"
+    }
+    
+    
+    
+    
+    ]
+   
+  }
